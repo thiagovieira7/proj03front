@@ -1,5 +1,5 @@
 const Api = {
-  apiUrl: 'http://localhost:3001/roupas',
+  apiUrl: 'https://lojasesportivas.herokuapp.com/',
   fetchGetAll: () => fetch(`${Api.apiUrl}/listall`),
   fetchGetById: id => fetch(`${Api.apiUrl}/listid/${id}`),
   fetchPost: (vaga) => {

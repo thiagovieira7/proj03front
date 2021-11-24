@@ -39,7 +39,7 @@ const Cadastro = (props) => {
         <div className="card-title">
           <div className="row">
             <div className="col">
-              <h3>Cadastro de Personagens</h3>
+              <h3>Cadastro de Roupas</h3>
             </div>
           </div>
         </div>
